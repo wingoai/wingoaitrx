@@ -1,2 +1,1 @@
-# wingoaitrx
-Trx wingomoney mini app
+# winGoAi - 97Lottery Clone with TRX Integration
